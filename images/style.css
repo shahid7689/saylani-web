@@ -1,0 +1,28 @@
+.div1{
+    background-color: rgba(red, green, blue, alpha);
+    padding-left: 130px;
+}
+#img{
+    width: 200px;
+    margin-left: 100px;
+}
+.dropdown{
+    display: inline;
+    outline: none;
+}
+#ee{
+    position: relative;
+    bottom: 500px;
+    
+}
+.bck{
+    background-color: lightgreen;
+    color: black;
+    height: 100px;
+    margin: 5px;
+}
+
+.oo{
+    position: relative;
+    bottom: 350px;
+}
